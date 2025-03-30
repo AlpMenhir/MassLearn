@@ -4,6 +4,16 @@
 
 ---
 
+## 🚧 Project Status
+
+⚠️ **This project is currently not maintained.**  
+It has not been supported for several months and **is not functional in its current state**.  
+Some libraries may be outdated or incompatible with newer environments.  
+
+- 🔧 **Known issue:** The `Cache` module is causing errors and requires adaptation.
+
+---
+
 ## 🚀 Overview
 
 MassLearn is built to work with raw `.raw` files from **Waters Xevo G2-XS qToF** instruments. It supports preprocessing, feature grouping, and statistical analysis, making it easier to explore and visualize complex metabolomics datasets.
@@ -53,3 +63,17 @@ MassLearn is built to work with raw `.raw` files from **Waters Xevo G2-XS qToF**
 
 ## 📁 Folder Structure (Example)
 
+MassLearn/ ├── Cache/ ├── Modules/ ├── Pages/ ├── assets/ ├── Batch_files/ ├── README.md └── MassLearn.py
+
+
+---
+
+## 🧪 Citation
+
+If you use **MassLearn** in your research, please cite the repository or contact the author.
+
+---
+
+## 📬 Contact
+
+Maintained by [@AlpMenhir](https://github.com/AlpMenhir)
